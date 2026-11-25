@@ -1,0 +1,230 @@
+{
+ "code": "M463LA",
+ "connector": "RTO-144",
+ "type": "M463LA-PREAMP",
+ "series": null,
+ "contacts": "12 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+   "page": 45
+  },
+  {
+   "pin": "3",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 003.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "CTL COM",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 001.jpg",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 003.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M463LA/M463LA.rto144.json",
+  "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 001.jpg",
+  "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - P044 - LB463-02-016 003.jpg",
+  "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+  "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg"
+ ]
+}
