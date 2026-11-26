@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+ "page": 41,
+ "version": 1,
+ "trace": "_traces/57a35fea5c64f45e-p41.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "41", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 21.2, 321.7, 423.2],
+ "outlines": {
+  "line": {"rings": 270, "straight": {"n": 2468, "mm": 5337.8}, "curved": {"n": 534, "mm": 818.0}},
+  "text": {"rings": 366, "straight": {"n": 2791, "mm": 3324.3}, "curved": {"n": 636, "mm": 1008.4}}
+ },
+ "circles": [
+  {"c": [134.1, 62.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.6, 316.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [79.4, 316.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [139.5, 419.5, 142.5, 421.7], "w": 3.0, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [30.0, 417.6, 126.3, 423.8], "text": "WAAC DBCr SYETEMS"},
+   {"mm": [145.9, 369.6, 188.5, 380.7], "text": "PAnTS LUEI"},
+   {"mm": [192.6, 358.6, 231.2, 369.6], "text": "AMPLWEIER"},
+   {"mm": [104.1, 361.0, 190.9, 367.2], "text": "4-126 EQUALIZER Filten"},
+   {"mm": [74.1, 334.0, 116.6, 340.2], "text": "DESCRiPtICY"},
+   {"mm": [268.1, 334.0, 294.9, 338.8], "text": "NlYAFA"},
+   {"mm": [74.1, 321.5, 100.8, 326.3], "text": "Pecoc"},
+   {"mm": [184.6, 320.0, 208.3, 326.2], "text": "Philipa"},
+   {"mm": [74.1, 315.2, 93.1, 320.0], "text": "Hele"},
+   {"mm": [74.1, 301.0, 100.8, 307.2], "text": "Resisior"},
+   {"mm": [103.4, 298.6, 133.4, 307.9], "text": "V/4w 3"},
+   {"mm": [74.1, 266.4, 108.8, 272.7], "text": "Iniegrateo"},
+   {"mm": [113.6, 267.9, 137.3, 272.7], "text": "Crcua"},
+   {"mm": [183.1, 267.9, 211.6, 272.7], "text": "aca"},
+   {"mm": [231.9, 267.9, 255.6, 272.7], "text": "LYanit"},
+   {"mm": [231.9, 241.2, 258.6, 246.0], "text": "LVILIER"},
+   {"mm": [231.9, 226.9, 255.6, 233.1], "text": "L\"zJim"},
+   {"mm": [231.9, 220.6, 258.6, 226.9], "text": "Lvicser"},
+   {"mm": [249.4, 47.3, 306.1, 82.8], "text": "{708citied309"},
+   {"mm": [61.5, 59.8, 99.3, 64.6], "text": "ccommence"},
+   {"mm": [153.1, 59.8, 203.4, 64.6], "text": "acemcnt paci"},
+   {"mm": [61.5, 53.5, 93.1, 58.3], "text": "Maclurera"},
+   {"mm": [113.6, 53.5, 167.3, 58.3], "text": "entinuto colimo"},
+   {"mm": [184.6, 53.5, 254.1, 58.3], "text": "Tipiee perenanre"},
+   {"mm": [146.8, 20.5, 164.1, 26.7], "text": "L- ZL"}
+  ]
+ },
+ "dots": [{"c": [134.1, 62.6], "r": 0.7, "lines": 0}, {"c": [147.7, 55.9], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–322 mm across, 21–423 mm up",
+  "- **Outlines:** line 270 rings, 2,468 straight (5,338 mm) / 534 curved (818 mm); text 366 rings, 2,791 straight (3,324 mm) / 636 curved (1,008 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (134.1, 62.6), r 1.7 @ (85.6, 316.0), r 1.6 @ (79.4, 316.0)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 32 in 25 lines: WAAC DBCr SYETEMS · PAnTS LUEI · AMPLWEIER · 4-126 EQUALIZER Filten · DESCRiPtICY · NlYAFA · Pecoc · Philipa · Hele · Resisior · V/4w 3 · Iniegrateo"
+ ]
+}

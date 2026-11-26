@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/bda91c0ab7c0dbf7-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 301.8, 422.7],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 527, "mm": 3290.7}, "curved": {"n": 48, "mm": 72.7}},
+  "text": {"rings": 169, "straight": {"n": 1714, "mm": 2378.4}, "curved": {"n": 381, "mm": 640.1}},
+  "tb": {"rings": 26, "straight": {"n": 113, "mm": 115.6}, "curved": {"n": 36, "mm": 44.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [117.9, 396.4, 282.6, 406.2], "text": "WAAD-BECK SysteMS LTD."},
+   {"mm": [49.7, 387.5, 278.1, 402.2], "text": "WES 841 PAOGPESS AVENUE; SCAABOROUGH ONTAAIO M1h2x4"},
+   {"mm": [117.4, 385.6, 169.0, 391.5], "text": "TeleX; 065-25399"},
+   {"mm": [203.6, 386.2, 277.4, 391.5], "text": "TELEPHONE; 416/438-6550"},
+   {"mm": [147.9, 201.4, 203.4, 216.1], "text": "M463LA"},
+   {"mm": [134.9, 180.9, 217.0, 189.6], "text": "SUBMASTER MODULE"},
+   {"mm": [255.2, 46.4, 274.0, 53.4], "text": "ISSUE"},
+   {"mm": [234.0, 32.8, 285.4, 39.8], "text": "DECEMBER 1982"}
+  ]
+ },
+ "title_block": {
+  "mm": [111.2, 37.8, 280.8, 414.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SysteMS LTD.",
+   "WES 841 PAOGPESS AVENUE; SCAABOROUGH ONTAAIO M1h2x4",
+   "TeleX; 065-25399",
+   "TELEPHONE; 416/438-6550",
+   "M463LA",
+   "SUBMASTER MODULE",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–302 mm across, 0–423 mm up",
+  "- **Outlines:** line 26 rings, 527 straight (3,291 mm) / 48 curved (72.7 mm); text 169 rings, 1,714 straight (2,378 mm) / 381 curved (640 mm); tb 26 rings, 113 straight (116 mm) / 36 curved (44.3 mm)",
+  "- **Words (OCR):** 14 in 8 lines: WAAD-BECK SysteMS LTD. · WES 841 PAOGPESS AVENUE; SCAABOROUGH ONTAAIO M1h2x4 · TeleX; 065-25399 · TELEPHONE; 416/438-6550 · M463LA · SUBMASTER MODULE · ISSUE · DECEMBER 1982",
+  "- **Title block:** (111, 38)–(281, 415) mm: WAAD-BECK SysteMS LTD. · WES 841 PAOGPESS AVENUE; SCAABOROUGH ONTAAIO M1h2x4 · TeleX; 065-25399 · TELEPHONE; 416/438-6550 · M463LA · SUBMASTER MODULE · ISSUE"
+ ]
+}

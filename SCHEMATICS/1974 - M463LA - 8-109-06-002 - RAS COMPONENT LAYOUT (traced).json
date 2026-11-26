@@ -1,0 +1,123 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/SCHEMATICS/1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/fee98797e1dd1eb6.svg",
+ "sheet": {
+  "number": "8-109-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 575, "straight": {"n": 5378, "mm": 7692.8}, "curved": {"n": 1360, "mm": 1230.8}},
+  "text": {"rings": 287, "straight": {"n": 2882, "mm": 3612.1}, "curved": {"n": 745, "mm": 922.6}},
+  "tb": {"rings": 15, "straight": {"n": 267, "mm": 425.6}, "curved": {"n": 45, "mm": 50.9}}
+ },
+ "circles": [
+  {"c": [44.6, 339.8], "r": 6.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [44.2, 163.5], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [44.4, 91.1], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [309.6, 95.4, 328.2, 104.5], "w": 18.6, "h": 9.1, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [170.1, 95.4, 189.1, 104.3], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [190.2, 95.4, 209.2, 104.3], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [210.3, 95.2, 308.7, 104.3], "w": 98.5, "h": 9.1, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [120.2, 67.4, 328.0, 94.0], "w": 207.7, "h": 26.6, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {"mm": [120.3, 57.6, 169.0, 66.6], "w": 48.8, "h": 8.9, "from": "ring", "words": ["DRN: GEB"], "in_title_block": true},
+  {
+   "mm": [170.1, 27.1, 328.0, 66.6],
+   "w": 157.9,
+   "h": 39.4,
+   "from": "ring",
+   "words": ["8 ~ 109A", "AMPLIFIER", "OUTPUT", "COMPONENT", "LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [120.3, 47.2, 169.0, 56.6], "w": 48.8, "h": 9.3, "from": "ring", "words": ["4/78", "ENG.MRW"], "in_title_block": true},
+  {"mm": [120.0, 37.4, 169.0, 46.2], "w": 49.0, "h": 8.9, "from": "ring", "words": ["CKD Ras"], "in_title_block": true},
+  {"mm": [120.0, 27.4, 169.0, 36.3], "w": 49.1, "h": 8.9, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [120.0, 7.1, 169.1, 26.3], "w": 49.1, "h": 19.2, "from": "ring", "words": ["SCALE"]},
+  {"mm": [289.7, 7.1, 327.8, 26.3], "w": 38.1, "h": 19.2, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [170.1, 7.1, 189.0, 26.1], "w": 18.8, "h": 19.1, "from": "ring"},
+  {"mm": [189.9, 7.1, 288.7, 26.1], "w": 98.7, "h": 19.1, "from": "ring", "words": ["8-109-06-002"]}
+ ],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [23.7, 334.2, 49.7, 347.2], "text": "E2C"},
+   {"mm": [13.4, 319.5, 25.3, 327.7], "text": "R2_"},
+   {"mm": [27.0, 322.8, 41.0, 329.2], "text": "47k"},
+   {"mm": [13.4, 301.2, 24.8, 308.9], "text": "R6"},
+   {"mm": [27.0, 304.9, 40.4, 311.8], "text": "a8k"},
+   {"mm": [13.2, 291.7, 39.1, 302.0], "text": "R7410"},
+   {"mm": [15.8, 260.8, 29.1, 268.5], "text": "22"},
+   {"mm": [8.9, 252.2, 33.5, 260.1], "text": "LF356"},
+   {"mm": [15.8, 227.1, 50.3, 239.4], "text": "-C1o47p"},
+   {"mm": [6.7, 210.3, 41.9, 221.1], "text": "~Ril JGk"},
+   {"mm": [5.2, 193.0, 39.7, 203.8], "text": "~Ri2 2k"},
+   {"mm": [12.7, 182.7, 43.0, 193.9], "text": "Riz 228"},
+   {"mm": [37.1, 178.1, 53.3, 185.8], "text": "Ioles"},
+   {"mm": [22.7, 174.9, 41.0, 182.6], "text": "-C3-"},
+   {"mm": [25.0, 157.8, 48.8, 168.6], "text": "ES E"},
+   {"mm": [5.4, 91.8, 39.1, 106.6], "text": "R37 4K7"},
+   {"mm": [170.6, 96.1, 208.3, 103.0], "text": "ISSUE |DATE"},
+   {"mm": [245.7, 96.7, 274.8, 103.7], "text": "REVISION"},
+   {"mm": [312.6, 96.7, 325.6, 103.2], "text": "APP"},
+   {"mm": [24.4, 84.2, 37.8, 92.8], "text": "E6"},
+   {"mm": [133.4, 73.8, 321.9, 86.8], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [120.9, 58.7, 152.6, 65.7], "text": "DRN: GEB"},
+   {"mm": [231.2, 53.1, 266.2, 62.7], "text": "8 ~ 109A"},
+   {"mm": [120.9, 48.6, 151.1, 55.5], "text": "ENG.MRW"},
+   {"mm": [153.9, 47.9, 168.4, 55.6], "text": "4/78"},
+   {"mm": [207.9, 42.1, 243.5, 50.7], "text": "OUTPUT"},
+   {"mm": [248.9, 41.9, 294.5, 52.2], "text": "AMPLIFIER"},
+   {"mm": [120.7, 37.1, 148.3, 47.5], "text": "CKD Ras"},
+   {"mm": [198.4, 30.7, 297.9, 39.7], "text": "COMPONENT LAYOUT"},
+   {"mm": [121.6, 28.5, 135.2, 35.0], "text": "APP"},
+   {"mm": [133.9, 19.4, 154.4, 26.4], "text": "SCALE"},
+   {"mm": [299.0, 19.0, 318.5, 26.0], "text": "ISSUE"},
+   {"mm": [206.2, 10.8, 272.0, 20.4], "text": "8-109-06-002"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [113.9, 10.3, 332.2, 112.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: GEB",
+   "8 ~ 109A",
+   "ENG.MRW",
+   "4/78",
+   "OUTPUT",
+   "AMPLIFIER",
+   "CKD Ras",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "8-109-06-002"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 8-109-06-002, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 575 rings, 5,378 straight (7,693 mm) / 1,360 curved (1,231 mm); text 287 rings, 2,882 straight (3,612 mm) / 745 curved (923 mm); tb 15 rings, 267 straight (426 mm) / 45 curved (50.9 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 6.7 @ (44.6, 339.8), r 5.5 @ (44.2, 163.5), r 5.5 @ (44.4, 91.1)",
+  "- **Closed boxes:** 14 (10 in the title block); named: SCALE; ISSUE; 8-109-06-002",
+  "- **Words (OCR):** 36 in 33 lines: E2C · R2_ · 47k · R6 · a8k · R7410 · 22 · LF356 · -C1o47p · ~Ril JGk · ~Ri2 2k · Riz 228",
+  "- **Title block:** (114, 10)–(332, 112) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW · 4/78 · OUTPUT · AMPLIFIER · CKD Ras · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002"
+ ]
+}

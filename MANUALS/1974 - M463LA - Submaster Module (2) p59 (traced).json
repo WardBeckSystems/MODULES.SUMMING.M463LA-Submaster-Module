@@ -1,0 +1,133 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+ "page": 59,
+ "version": 1,
+ "trace": "_traces/57a35fea5c64f45e-p59.svg",
+ "sheet": {
+  "number": "",
+  "title": "Lla Component Layout",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "59", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 88, "straight": {"n": 3028, "mm": 6901.3}, "curved": {"n": 436, "mm": 598.9}},
+  "text": {"rings": 187, "straight": {"n": 1632, "mm": 2452.7}, "curved": {"n": 364, "mm": 613.7}},
+  "tb": {"rings": 129, "straight": {"n": 1075, "mm": 1758.0}, "curved": {"n": 293, "mm": 526.6}}
+ },
+ "circles": [
+  {"c": [42.7, 161.5], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [42.9, 89.1], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [37.6, 188.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [308.3, 93.7, 326.9, 103.0], "w": 18.6, "h": 9.3, "from": "ring", "words": ["lAPP."], "in_title_block": true},
+  {"mm": [209.0, 93.5, 307.4, 102.8], "w": 98.5, "h": 9.2, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [168.8, 93.7, 187.8, 102.6], "w": 19.0, "h": 8.9, "from": "ring", "words": ["IISSUE"], "in_title_block": true},
+  {"mm": [188.9, 93.7, 207.9, 102.6], "w": 19.0, "h": 8.9, "from": "ring", "words": ["loATE"], "in_title_block": true},
+  {
+   "mm": [119.0, 65.6, 326.9, 92.4],
+   "w": 207.9,
+   "h": 26.8,
+   "from": "ring",
+   "words": ["[\\NE3S]", "WARD-BECK", "SYSTEMS"],
+   "in_title_block": true
+  },
+  {
+   "mm": [168.8, 25.4, 327.0, 65.1],
+   "w": 158.2,
+   "h": 39.7,
+   "from": "ring",
+   "words": ["ps", "8-109F", "BS", "BOOSTER", "AM", "PLIFIER", "COMPONENT", "LAYOUT", "tp"],
+   "in_title_block": true
+  },
+  {"mm": [119.0, 55.7, 167.8, 64.6], "w": 48.8, "h": 8.9, "from": "ring", "words": ["DRN.", "GEB"], "in_title_block": true},
+  {"mm": [119.0, 45.2, 167.8, 54.6], "w": 48.8, "h": 9.4, "from": "ring", "words": ["ENG.MRW", "4/78"], "in_title_block": true},
+  {"mm": [118.7, 35.4, 167.8, 44.5], "w": 49.0, "h": 9.1, "from": "ring", "words": ["CKo·", "llA"], "in_title_block": true},
+  {"mm": [119.0, 25.5, 167.8, 34.5], "w": 48.8, "h": 9.1, "from": "ring", "words": ["APP."], "in_title_block": true},
+  {"mm": [288.7, 5.6, 326.7, 24.8], "w": 38.0, "h": 19.2, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [188.9, 5.4, 287.6, 24.6], "w": 98.7, "h": 19.2, "from": "ring", "words": ["ht", "8-10", "06", "007"]},
+  {"mm": [118.7, 5.2, 167.8, 24.4], "w": 49.0, "h": 19.2, "from": "ring", "words": ["SCALE"]},
+  {"mm": [168.8, 5.4, 187.8, 24.4], "w": 19.0, "h": 19.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [23.3, 331.8, 48.1, 345.3], "text": "Ez8"},
+   {"mm": [9.7, 327.3, 39.7, 335.2], "text": "_C.2~/tO"},
+   {"mm": [11.9, 318.2, 38.2, 326.6], "text": "~2~lc."},
+   {"mm": [22.0, 291.0, 37.6, 299.4], "text": "....!!..lC."},
+   {"mm": [13.8, 258.6, 25.9, 265.6], "text": "Z2"},
+   {"mm": [7.8, 249.6, 30.7, 256.8], "text": "LF35G>"},
+   {"mm": [15.8, 227.8, 41.5, 235.2], "text": "_CIO~·7"},
+   {"mm": [15.8, 218.9, 48.1, 227.3], "text": "_CI\\~ ·'7p"},
+   {"mm": [11.9, 207.9, 20.7, 214.1], "text": "RI'"},
+   {"mm": [26.8, 200.1, 38.9, 205.7], "text": "5/0"},
+   {"mm": [5.2, 182.9, 39.5, 189.6], "text": "....p.,13 3'0"},
+   {"mm": [25.7, 174.2, 50.7, 182.4], "text": "C~o/rS"},
+   {"mm": [24.2, 155.4, 47.9, 163.4], "text": "E.Se"},
+   {"mm": [7.1, 111.6, 33.5, 121.5], "text": "220J I~C"},
+   {"mm": [27.0, 90.9, 34.3, 101.7], "text": "lq"},
+   {"mm": [167.5, 93.1, 206.2, 100.0], "text": "IISSUE loATE"},
+   {"mm": [245.3, 94.1, 274.0, 99.6], "text": "REVISION"},
+   {"mm": [307.7, 93.3, 325.8, 100.2], "text": "lAPP."},
+   {"mm": [23.3, 81.4, 48.1, 89.3], "text": "EC.e"},
+   {"mm": [123.7, 70.0, 320.2, 86.5], "text": "[\\NE3S] WARD-BECK SYSTEMS"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [120.7, 55.9, 150.5, 61.4], "text": "DRN. GEB"},
+   {"mm": [231.4, 47.7, 295.1, 59.3], "text": "8-109F BS"},
+   {"mm": [120.5, 45.6, 166.2, 51.1], "text": "ENG.MRW 4/78"},
+   {"mm": [203.8, 39.7, 292.5, 47.6], "text": "BOOSTER AM PLIFIER"},
+   {"mm": [120.5, 34.5, 152.4, 41.5], "text": "CKo· llA"},
+   {"mm": [198.4, 28.1, 296.2, 35.7], "text": "COMPONENT LAYOUT"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [120.5, 25.0, 133.0, 31.3], "text": "APP."},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"},
+   {"mm": [133.4, 16.0, 152.4, 22.2], "text": "SCALE"},
+   {"mm": [299.9, 16.4, 317.8, 22.4], "text": "ISSUE"},
+   {"mm": [206.4, 8.4, 270.7, 16.1], "text": "8-10 06 007"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [113.7, 7.3, 332.6, 108.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "IISSUE loATE",
+   "REVISION",
+   "lAPP.",
+   "[\\NE3S] WARD-BECK SYSTEMS",
+   "ps",
+   "DRN. GEB",
+   "8-109F BS",
+   "ENG.MRW 4/78",
+   "BOOSTER AM PLIFIER",
+   "CKo· llA",
+   "COMPONENT LAYOUT",
+   "tp",
+   "APP.",
+   "ht",
+   "SCALE",
+   "ISSUE",
+   "8-10 06 007"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 88 rings, 3,028 straight (6,901 mm) / 436 curved (599 mm); text 187 rings, 1,632 straight (2,453 mm) / 364 curved (614 mm); tb 129 rings, 1,075 straight (1,758 mm) / 293 curved (527 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 5.5 @ (42.7, 161.5), r 5.5 @ (42.9, 89.1), r 2.2 @ (37.6, 188.7)",
+  "- **Closed boxes:** 14 (10 in the title block); named: ISSUE; ht 8-10 06 007; SCALE",
+  "- **Words (OCR):** 48 in 33 lines: Ez8 · _C.2~/tO · ~2~lc. · ....!!..lC. · Z2 · LF35G> · _CIO~·7 · _CI\\~ ·'7p · RI' · 5/0 · ....p.,13 3'0 · C~o/rS",
+  "- **Title block:** (114, 7)–(333, 109) mm: IISSUE loATE · REVISION · lAPP. · [\\NE3S] WARD-BECK SYSTEMS · ps · DRN. GEB · 8-109F BS · ENG.MRW 4/78 · BOOSTER AM PLIFIER · CKo· llA · COMPONENT LAYOUT · tp · APP. · ht · SCALE · ISSUE · 8-10 06 007"
+ ]
+}

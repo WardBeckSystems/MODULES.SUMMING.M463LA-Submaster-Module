@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module.pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/bda91c0ab7c0dbf7-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 333.3, 424.9],
+ "outlines": {
+  "line": {"rings": 44, "straight": {"n": 768, "mm": 2896.8}, "curved": {"n": 73, "mm": 131.0}},
+  "text": {"rings": 90, "straight": {"n": 871, "mm": 1076.1}, "curved": {"n": 176, "mm": 284.9}},
+  "tb": {"rings": 16, "straight": {"n": 141, "mm": 145.5}, "curved": {"n": 41, "mm": 51.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [24.2, 417.8, 140.1, 424.7], "text": "WAAD-BECX Systems LTD"},
+   {"mm": [99.7, 231.4, 186.1, 237.9], "text": "4-126 EQUALIZER FILTER"},
+   {"mm": [188.9, 231.0, 225.6, 238.0], "text": "AMPLIF IER"},
+   {"mm": [227.1, 55.1, 246.6, 61.5], "text": "ISSUE"},
+   {"mm": [226.7, 41.5, 264.5, 47.9], "text": "SEPTEMBER"},
+   {"mm": [267.5, 41.0, 282.0, 48.0], "text": "1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [73.7, 46.4, 253.2, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECX Systems LTD", "4-126 EQUALIZER FILTER", "AMPLIF IER", "ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 0–425 mm up",
+  "- **Outlines:** line 44 rings, 768 straight (2,897 mm) / 73 curved (131 mm); text 90 rings, 871 straight (1,076 mm) / 176 curved (285 mm); tb 16 rings, 141 straight (146 mm) / 41 curved (51.4 mm)",
+  "- **Words (OCR):** 10 in 6 lines: WAAD-BECX Systems LTD · 4-126 EQUALIZER FILTER · AMPLIF IER · ISSUE · SEPTEMBER · 1983",
+  "- **Title block:** (74, 46)–(253, 432) mm: WAAD-BECX Systems LTD · 4-126 EQUALIZER FILTER · AMPLIF IER · ISSUE"
+ ]
+}

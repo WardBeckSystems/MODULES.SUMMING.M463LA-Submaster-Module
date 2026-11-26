@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module.pdf",
+ "page": 33,
+ "version": 1,
+ "trace": "_traces/bda91c0ab7c0dbf7-p33.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "33", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.1, 423.4],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 628, "mm": 2893.6}, "curved": {"n": 74, "mm": 121.3}},
+  "text": {"rings": 82, "straight": {"n": 654, "mm": 893.1}, "curved": {"n": 202, "mm": 321.4}},
+  "tb": {"rings": 21, "straight": {"n": 147, "mm": 140.3}, "curved": {"n": 30, "mm": 40.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [29.6, 410.2, 142.9, 417.9], "text": "WARD-BECK systeMS LTD_"},
+   {"mm": [121.3, 226.7, 210.3, 233.2], "text": "4-141 SUMMING AMPLIFIER"},
+   {"mm": [226.7, 52.2, 260.4, 60.2], "text": "ISSUE#2 ."},
+   {"mm": [226.0, 39.9, 273.1, 46.9], "text": "OCTOBER 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [23.0, 43.7, 267.0, 426.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK systeMS LTD_", "4-141 SUMMING AMPLIFIER", "ISSUE#2 .", "OCTOBER 1983"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–423 mm up",
+  "- **Outlines:** line 23 rings, 628 straight (2,894 mm) / 74 curved (121 mm); text 82 rings, 654 straight (893 mm) / 202 curved (321 mm); tb 21 rings, 147 straight (140 mm) / 30 curved (40.6 mm)",
+  "- **Words (OCR):** 8 in 4 lines: WARD-BECK systeMS LTD_ · 4-141 SUMMING AMPLIFIER · ISSUE#2 . · OCTOBER 1983",
+  "- **Title block:** (23, 44)–(267, 426) mm: WARD-BECK systeMS LTD_ · 4-141 SUMMING AMPLIFIER · ISSUE#2 . · OCTOBER 1983"
+ ]
+}

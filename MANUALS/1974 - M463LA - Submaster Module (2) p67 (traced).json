@@ -1,0 +1,89 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+ "page": 67,
+ "version": 1,
+ "trace": "_traces/57a35fea5c64f45e-p67.svg",
+ "sheet": {
+  "number": "41-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "67", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.2, 333.1, 421.7],
+ "outlines": {
+  "line": {"rings": 691, "straight": {"n": 9943, "mm": 15887.2}, "curved": {"n": 2529, "mm": 2881.1}},
+  "text": {"rings": 59, "straight": {"n": 519, "mm": 607.9}, "curved": {"n": 173, "mm": 209.1}}
+ },
+ "circles": [
+  {"c": [43.2, 257.5], "r": 13.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [43.1, 257.5], "r": 5.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [84.1, 257.3], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [198.1, 331.6], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [107.9, 331.5], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [120.6, 182.8], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [198.5, 183.6], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [204.1, 29.0], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [223.8, 29.1], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [271.9, 29.0], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [111.9, 14.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [145.7, 229.3], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [20.9, 181.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [203.2, 307.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [109.2, 247.0, 152.4, 269.1], "w": 43.2, "h": 22.1, "from": "ring"},
+  {"mm": [24.3, 46.0, 102.6, 82.0], "w": 78.2, "h": 36.1, "from": "ring", "words": ["MATL."]},
+  {"mm": [104.1, 57.6, 325.8, 81.8], "w": 221.7, "h": 24.2, "from": "ring", "words": ["ps"]},
+  {"mm": [219.1, 67.1, 225.0, 72.8], "w": 5.8, "h": 5.6, "from": "ring"},
+  {"mm": [273.1, 67.1, 279.2, 72.5], "w": 6.0, "h": 5.4, "from": "ring"},
+  {"mm": [206.6, 68.7, 209.9, 70.8], "w": 3.2, "h": 2.2, "from": "ring"},
+  {"mm": [169.4, 22.6, 325.8, 56.6], "w": 156.4, "h": 34.0, "from": "ring", "words": ["BS", "tp", "COMPONENT", "LAYOUT"]},
+  {"mm": [104.1, 49.2, 167.8, 56.6], "w": 63.7, "h": 7.4, "from": "ring"},
+  {"mm": [104.1, 40.3, 167.8, 48.1], "w": 63.7, "h": 7.8, "from": "ring"},
+  {"mm": [24.4, 6.4, 102.4, 44.7], "w": 78.0, "h": 38.3, "from": "ring", "words": ["FINISH"]},
+  {"mm": [104.1, 31.5, 167.8, 39.3], "w": 63.7, "h": 7.8, "from": "ring"},
+  {"mm": [104.1, 22.6, 167.5, 30.4], "w": 63.5, "h": 7.8, "from": "ring", "words": ["SCALE"]},
+  {"mm": [190.0, 6.6, 291.7, 21.6], "w": 101.7, "h": 15.1, "from": "ring", "words": ["ht", ".4-1.41-06-001"]},
+  {"mm": [104.1, 6.4, 167.5, 21.6], "w": 63.5, "h": 15.2, "from": "ring", "words": [":i2~.-", "TOLS."]},
+  {"mm": [292.9, 6.9, 309.7, 21.6], "w": 16.7, "h": 14.7, "from": "ring", "words": ["15"]},
+  {"mm": [311.1, 6.9, 325.6, 21.6], "w": 14.5, "h": 14.7, "from": "ring", "words": [".19"]},
+  {"mm": [169.3, 6.7, 188.7, 21.4], "w": 19.4, "h": 14.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [25.9, 75.3, 46.9, 81.1], "text": "MATL."},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [26.1, 38.0, 47.5, 44.0], "text": "FINISH"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [105.4, 24.2, 125.4, 29.9], "text": "SCALE"},
+   {"mm": [195.2, 24.0, 286.3, 31.4], "text": "COMPONENT LAYOUT"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"},
+   {"mm": [127.8, 6.9, 160.6, 21.3], "text": ":i2~.-"},
+   {"mm": [306.1, 7.6, 323.0, 20.0], "text": ".19"},
+   {"mm": [211.4, 8.6, 269.2, 16.6], "text": ".4-1.41-06-001"},
+   {"mm": [295.1, 11.4, 301.2, 17.2], "text": "15"},
+   {"mm": [105.4, 9.3, 124.4, 15.0], "text": "TOLS."}
+  ],
+  "scale": null
+ },
+ "dots": [{"c": [119.6, 51.1], "r": 0.7, "lines": 0}, {"c": [247.8, 13.1], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 41-06-001, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 3–422 mm up",
+  "- **Outlines:** line 691 rings, 9,943 straight (15,887 mm) / 2,529 curved (2,881 mm); text 59 rings, 519 straight (608 mm) / 173 curved (209 mm)",
+  "- **Circles and arcs:** 14 circles, 0 arcs; largest r 13.8 @ (43.2, 257.5), r 5.3 @ (43.1, 257.5), r 5.2 @ (84.1, 257.3), r 3.4 @ (198.1, 331.6)",
+  "- **Closed boxes:** 17; named: MATL.; ps; BS tp COMPONENT LAYOUT; FINISH; SCALE; ht .4-1.41-06-001; :i2~.- TOLS.; 15; .19",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 14 in 13 lines: MATL. · ps · BS · FINISH · tp · SCALE · COMPONENT LAYOUT · ht · :i2~.- · .19 · .4-1.41-06-001 · 15"
+ ]
+}

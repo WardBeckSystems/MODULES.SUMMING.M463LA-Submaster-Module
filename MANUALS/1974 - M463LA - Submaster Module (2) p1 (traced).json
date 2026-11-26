@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/57a35fea5c64f45e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 310.5, 422.7],
+ "outlines": {
+  "line": {"rings": 234, "straight": {"n": 2475, "mm": 5906.8}, "curved": {"n": 494, "mm": 795.5}},
+  "text": {"rings": 74, "straight": {"n": 333, "mm": 390.9}, "curved": {"n": 35, "mm": 58.2}}
+ },
+ "circles": [
+  {"c": [193.6, 185.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [275.3, 388.5], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [264.5, 388.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [147.7, 399.8, 152.3, 403.1], "w": 4.6, "h": 3.2, "from": "ring"},
+  {"mm": [272.5, 399.6, 276.8, 403.1], "w": 4.3, "h": 3.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [149.2, 201.0, 202.3, 213.2], "text": "M463LA"},
+   {"mm": [136.0, 181.4, 215.5, 187.4], "text": "$UBMAS\"'(ER MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–423 mm up",
+  "- **Outlines:** line 234 rings, 2,475 straight (5,907 mm) / 494 curved (796 mm); text 74 rings, 333 straight (391 mm) / 35 curved (58.2 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.8 @ (193.6, 185.4), r 1.9 @ (275.3, 388.5), r 1.8 @ (264.5, 388.5)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 7 in 6 lines: M463LA · $UBMAS\"'(ER MODULE · ps · BS · tp · ht"
+ ]
+}

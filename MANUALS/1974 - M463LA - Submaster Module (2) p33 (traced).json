@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf",
+ "page": 33,
+ "version": 1,
+ "trace": "_traces/57a35fea5c64f45e-p33.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "33", "pages": "69"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.1, 423.4],
+ "outlines": {
+  "line": {"rings": 116, "straight": {"n": 1440, "mm": 3996.8}, "curved": {"n": 319, "mm": 525.5}},
+  "text": {"rings": 21, "straight": {"n": 170, "mm": 268.9}, "curved": {"n": 33, "mm": 54.3}}
+ },
+ "circles": [{"c": [229.0, 43.4], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [30.7, 410.2, 141.6, 415.5], "text": "WAF:lO-B CK SYSTEMS L.TO"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–423 mm up",
+  "- **Outlines:** line 116 rings, 1,440 straight (3,997 mm) / 319 curved (526 mm); text 21 rings, 170 straight (269 mm) / 33 curved (54.3 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (229.0, 43.4)",
+  "- **Words (OCR):** 8 in 5 lines: WAF:lO-B CK SYSTEMS L.TO · ps · BS · tp · ht"
+ ]
+}
