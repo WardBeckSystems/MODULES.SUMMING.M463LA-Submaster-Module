@@ -20,7 +20,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Closed boxes:** 53; named: 22 LM 2oin; USED ON; 4245; M.L; Rn; 12; 171; 230; 513203; GEB; 3512; ML
 - **Words (OCR):** 47 in 37 lines: p4sibe · C2 · 22 · LM 2oin · s3o/ · 'PCis_ · k3 · S2o · ~C12"p DIF · 351 · ~Rig_Isk r2g · ~~R2s-2k2 Pn256"
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-141-06-001 - ARE FACTORY SELECTED (2) (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-06-001%20-%20ARE%20FACTORY%20SELECTED%20(2)%20(traced).json) (the CAD file: `1974 - M463LA - 4-141-06-001 - ARE FACTORY SELECTED (2) (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-141-06-001 - ARE FACTORY SELECTED (2) (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-06-001%20-%20ARE%20FACTORY%20SELECTED%20%282%29%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-141-06-001 - ARE FACTORY SELECTED (2) (traced).dxf`).
 
 ## Full text
 

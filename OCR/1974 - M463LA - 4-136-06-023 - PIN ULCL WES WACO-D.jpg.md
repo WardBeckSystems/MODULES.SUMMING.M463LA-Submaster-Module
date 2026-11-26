@@ -21,7 +21,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 120 in 95 lines: Swio · Sws · Swb 5w7 SwG Sw5 Sw4 · Sw3 · Other · CtheR · SiDE · SIDE · ILT PCb · Iswzd Swib · FOR M463 · Swis
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-136-06-023 - PIN ULCL WES WACO-D (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-136-06-023%20-%20PIN%20ULCL%20WES%20WACO-D%20(traced).json) (the CAD file: `1974 - M463LA - 4-136-06-023 - PIN ULCL WES WACO-D (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-136-06-023 - PIN ULCL WES WACO-D (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-136-06-023%20-%20PIN%20ULCL%20WES%20WACO-D%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-136-06-023 - PIN ULCL WES WACO-D (traced).dxf`).
 
 ## Full text
 

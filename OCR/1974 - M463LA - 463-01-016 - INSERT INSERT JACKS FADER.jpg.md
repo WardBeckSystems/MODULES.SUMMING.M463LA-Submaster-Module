@@ -22,7 +22,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 18 in 18 lines: E0 · INSERT · InSERT JACKS · SUMMiNG · FAdER · BUS INPUT · 4-141 · 4-126 · I8-1094 · -10 dBm · (-15db ) · direct iNput
 - **Wiring (first pass):** 55 connected wire groups from 161 runs; labelled ends: 1186 mm → DSS MOD.ICKD; 158 mm → DSS MOD.ICKD; 119 mm → InSERT JACKS, -10 dBm, FAdER, (-15db ); 112 mm → SUMMiNG, BUS INPUT; 60 mm → INSERT, I8-1094
 
-Every curve, box, word and wire group: [1974 - M463LA - 463-01-016 - INSERT INSERT JACKS FADER (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%20463-01-016%20-%20INSERT%20INSERT%20JACKS%20FADER%20(traced).json) (the CAD file: `1974 - M463LA - 463-01-016 - INSERT INSERT JACKS FADER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 463-01-016 - INSERT INSERT JACKS FADER (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%20463-01-016%20-%20INSERT%20INSERT%20JACKS%20FADER%20%28traced%29.json) (the CAD file: `1974 - M463LA - 463-01-016 - INSERT INSERT JACKS FADER (traced).dxf`).
 
 ## Full text
 

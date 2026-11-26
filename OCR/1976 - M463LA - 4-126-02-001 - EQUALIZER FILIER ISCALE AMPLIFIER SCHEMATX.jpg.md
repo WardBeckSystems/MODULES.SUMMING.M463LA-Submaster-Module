@@ -28,7 +28,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Title block:** (116, 4)–(295, 52) mm: ISS MOD IIcKD; · USED ON · MAT · 1949 · WBS WAAD-BeCk bybtemb · 3047 · 253 · DRN: SEB · 4-126 · DATE Oct 76 · CKD · EQUAlIZER Filier · SCALE · AMPLIFIER SCHEMATXC · 4-126-02-001 · TOLS _
 - **Wiring (first pass):** 78 connected wire groups from 422 runs; labelled ends: 237 mm → R3B, iok, 345, .3/6; 159 mm → 221, 6 3/6, CCMbN, ViLLE; 151 mm → R45, 6k2, 242, 365; 142 mm → RI4, ok; 135 mm → R2i, 6k2, C18, CCMbN
 
-Every curve, box, word and wire group: [1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX (traced).json](../SCHEMATICS/1976%20-%20M463LA%20-%204-126-02-001%20-%20EQUALIZER%20FILIER%20ISCALE%20AMPLIFIER%20SCHEMATX%20(traced).json) (the CAD file: `1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX (traced).json](../SCHEMATICS/1976%20-%20M463LA%20-%204-126-02-001%20-%20EQUALIZER%20FILIER%20ISCALE%20AMPLIFIER%20SCHEMATX%20%28traced%29.json) (the CAD file: `1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX (traced).dxf`).
 
 ## Full text
 

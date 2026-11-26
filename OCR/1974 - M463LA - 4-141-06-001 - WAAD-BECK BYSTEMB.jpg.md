@@ -26,7 +26,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 81 in 57 lines: E30 · E8 0 · R14'K ~C2?-4p7 e Iczo Zoo · R2 #7K · Ips1' R22 · 04 · 72 · R(3 IKe ~C7_loop"o4 RlI 'R24 · Pu3569 · 3k 51 · CI4op · RIs-
 - **Title block:** (98, 15)–(248, 84) mm: WBS WAAD-BECK BYSTEMB LTD_ · DRN: · DM · 4-141 · DATE · DEC 74 · SUMMING AMPLIFIER · COMPONENT LAYOUT · SCALE · TOLS _
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-141-06-001 - WAAD-BECK BYSTEMB (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-06-001%20-%20WAAD-BECK%20BYSTEMB%20(traced).json) (the CAD file: `1974 - M463LA - 4-141-06-001 - WAAD-BECK BYSTEMB (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-141-06-001 - WAAD-BECK BYSTEMB (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-06-001%20-%20WAAD-BECK%20BYSTEMB%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-141-06-001 - WAAD-BECK BYSTEMB (traced).dxf`).
 
 ## Full text
 

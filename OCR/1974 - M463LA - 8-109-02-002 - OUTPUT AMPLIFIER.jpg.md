@@ -23,7 +23,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Title block:** (226, 0)–(336, 59) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK BybteMB · DrN: Geb · 8 ~ 109 · ENG MRW 4178 · Output AMPLIFIER · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-002
 - **Wiring (first pass):** 29 connected wire groups from 197 runs; labelled ends: 197 mm → 4k7, E7; 192 mm → E3, Ris, 2n2102; 148 mm → R37, 4K7, cig, 22o/10; 134 mm → 4i5, 22o/10, E4, R3c; 114 mm → R35, 5.6, cig, 22o/10
 
-Every curve, box, word and wire group: [1974 - M463LA - 8-109-02-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20(traced).json) (the CAD file: `1974 - M463LA - 8-109-02-002 - OUTPUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 8-109-02-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1974 - M463LA - 8-109-02-002 - OUTPUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 158 in 135 lines: DIRECT · ~P2-12 OUTPuT · +2iv · ~2iv · +8dBm · P2-N · Rizo · NoMiNAL · 420K · P2-3 · 403 · 487
 - **Wiring (first pass):** 173 connected wire groups from 842 runs, 1 dotted junctions; labelled ends: 399 mm → Fbilz, Swzo, Fb34; 368 mm → PRE, 2ST, Swzo, PsT; 348 mm → Lto, WBS, 324Z, LB; 310 mm → PRE; 297 mm → Swzz Ri3i, Sw24 Ri3s, Sw?s Rr37, Swp
 
-Every curve, box, word and wire group: [1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%20463-02-016%20-%20SUB-MASTER%20MODULE%20COK%20ROM%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%20463-02-016%20-%20SUB-MASTER%20MODULE%20COK%20ROM%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC (traced).dxf`).
 
 ## Full text
 

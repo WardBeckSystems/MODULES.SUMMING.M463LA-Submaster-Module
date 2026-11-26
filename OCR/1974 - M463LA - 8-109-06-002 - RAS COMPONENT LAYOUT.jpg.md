@@ -21,7 +21,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 36 in 33 lines: E2C · R2_ · 47k · R6 · a8k · R7410 · 22 · LF356 · -C1o47p · ~Ril JGk · ~Ri2 2k · Riz 228
 - **Title block:** (114, 10)–(332, 112) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW · 4/78 · OUTPUT · AMPLIFIER · CKD Ras · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%208-109-06-002%20-%20RAS%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%208-109-06-002%20-%20RAS%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

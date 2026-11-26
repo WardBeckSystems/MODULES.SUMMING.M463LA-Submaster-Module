@@ -21,7 +21,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 78 in 62 lines: t8 6-8l6 · E3 · ~c9- · Ri9cig C18 · C6 · 25 · R2o · C21 R2i R1 LMi458 · R24 · Ri8 · E4 · R7
 - **Title block:** (309, 13)–(335, 46) mm: DRM · DATE JU · CKD_ Ta · SCALE · TOLS
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-126-06-001 - ISSMOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-126-06-001%20-%20ISSMOD%20ICKD%20USED%20(traced).json) (the CAD file: `1974 - M463LA - 4-126-06-001 - ISSMOD ICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-126-06-001 - ISSMOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-126-06-001%20-%20ISSMOD%20ICKD%20USED%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-126-06-001 - ISSMOD ICKD USED (traced).dxf`).
 
 ## Full text
 

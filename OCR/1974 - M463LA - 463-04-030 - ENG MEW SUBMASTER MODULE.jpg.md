@@ -21,7 +21,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 42 in 40 lines: ITEM · PT Ng · DESCRiPTiON · Oty · WBS · M463L; · 18 · 19 · PRE · RS-€-PA · RS · PRE
 - **Title block:** (145, 0)–(335, 416) mm: WBS · M463L; · 18 · 19 · PRE · RS-€-PA · RS · PRE · PRE · 3/4-€-V2 · PRE · 12.8 · RHZ · 25 · MF · 50 100200 · 300 · 400 · 28 · PAN · ISSUE IDATE · REviSION · APP · WBS WAAD-BECk sysTeMS · DRN: 12/82 J
 
-Every curve, box, word and wire group: [1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE (traced).json](../MECHANICAL/1974%20-%20M463LA%20-%20463-04-030%20-%20ENG%20MEW%20SUBMASTER%20MODULE%20(traced).json) (the CAD file: `1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE (traced).json](../MECHANICAL/1974%20-%20M463LA%20-%20463-04-030%20-%20ENG%20MEW%20SUBMASTER%20MODULE%20%28traced%29.json) (the CAD file: `1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE (traced).dxf`).
 
 ## Full text
 

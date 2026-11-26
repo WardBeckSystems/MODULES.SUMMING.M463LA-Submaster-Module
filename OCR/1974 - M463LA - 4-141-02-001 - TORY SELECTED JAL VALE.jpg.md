@@ -27,7 +27,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Title block:** (99, 16)–(249, 341) mm: VALUE 33opf · Cl NOMINAL · ON · PrevIOUs iSSuES · R9 WAs 7k5 · Rzl WAS · Not INCLUDED _ · LAsT COMPONENTS · 22 · C 23 · Q4 r26 · R2O 620 · C14 · IOOe · R18 · 22 · 2k4 C12 · LMzOL · Rig · 47p · cii · I
 - **Wiring (first pass):** 22 connected wire groups from 83 runs; labelled ends: 234 mm → Sk, ON, {OOOp, WBS; 191 mm → DRN:, DATE NOV; 150 mm → LTD_, WBS, WARD-BECK; 76 mm → C16, 32/10, 22, LMzOL; 63 mm → ISS.
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-141-02-001 - TORY SELECTED JAL VALE (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-02-001%20-%20TORY%20SELECTED%20JAL%20VALE%20(traced).json) (the CAD file: `1974 - M463LA - 4-141-02-001 - TORY SELECTED JAL VALE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-141-02-001 - TORY SELECTED JAL VALE (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-141-02-001%20-%20TORY%20SELECTED%20JAL%20VALE%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-141-02-001 - TORY SELECTED JAL VALE (traced).dxf`).
 
 ## Full text
 

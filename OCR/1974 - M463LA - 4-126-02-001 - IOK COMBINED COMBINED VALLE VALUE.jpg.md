@@ -21,7 +21,7 @@ Wiki page: [M463LA](../../../../PAGES/M463LA.md)
 - **Words (OCR):** 84 in 73 lines: HIGh · EREQUENCY · (16 kHz 25kAz. ) · E3 · Ok · RB · 6k2 · 36 · Tcsl · C9 · cio · Iooop
 - **Wiring (first pass):** 40 connected wire groups from 214 runs; labelled ends: 267 mm → Ok, cio, Ooop, ci; 212 mm → C9, Tcsl, 36, Iooop; 168 mm → RB, 6k2, 620, R7; 130 mm → Ok, iok, 620, ~2iv; 110 mm → iok, R7, R9, IM
 
-Every curve, box, word and wire group: [1974 - M463LA - 4-126-02-001 - IOK COMBINED COMBINED VALLE VALUE (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-126-02-001%20-%20IOK%20COMBINED%20COMBINED%20VALLE%20VALUE%20(traced).json) (the CAD file: `1974 - M463LA - 4-126-02-001 - IOK COMBINED COMBINED VALLE VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463LA - 4-126-02-001 - IOK COMBINED COMBINED VALLE VALUE (traced).json](../SCHEMATICS/1974%20-%20M463LA%20-%204-126-02-001%20-%20IOK%20COMBINED%20COMBINED%20VALLE%20VALUE%20%28traced%29.json) (the CAD file: `1974 - M463LA - 4-126-02-001 - IOK COMBINED COMBINED VALLE VALUE (traced).dxf`).
 
 ## Full text
 
