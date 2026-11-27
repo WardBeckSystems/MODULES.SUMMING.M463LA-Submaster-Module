@@ -1,0 +1,212 @@
+{
+ "module": "M463LA",
+ "title": "M463LA SUBMASTER MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M463LA - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "+18 dB +/ -0.5 dB (bridging gain) (With fader in15 dB \"in-hand\" position.",
+   "quantities": [
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": -0.5,
+     "unit": "dB"
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/ -0.25 dB from 20 Hz kHz (Equalizer bypass position.",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "dB below dBm nominal output level (20Hz kHz)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.259 irom Hz kHz +28 dBm less Typically less than 057 across most bandwidth)",
+   "quantities": [
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "30 000 ohms balanced Direct: 600 ohms or less, balanced",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "ohms"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "Less than Direct: 30,000 ohms ohms",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms (at outputs 8-109A amplifiers only) 8-109F",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "from": 8,
+     "to": 109,
+     "unit": "A"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "500 ohms, balanced (at insertion point and DIRECT output)",
+   "quantities": [
+    {
+     "value": 500,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nomina at insertion +8 dBm nominal DIRECT output _ +30 dBm maximum (at outputs 8-109F 8-109A amplifiers only).",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "from": 8,
+     "to": 109,
+     "unit": "A"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "volts dc, 100 mA nominal 300 MA maximum",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "mA"
+    },
+    {
+     "value": 300,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "wide 14.5\" high 6.5\" deep (41 mm 360 mm 165 mm)",
+   "quantities": [
+    {
+     "value": 14.5,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "40 ozs (1150 gms)"
+  }
+ ]
+}

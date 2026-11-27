@@ -13,6 +13,163 @@ Ward-Beck Systems M463LA, 1974|7. Wiki page: [M463LA on WBSps.ca](https://wardbe
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 73 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M463LA - P003 - 1-1.jpg](MANUALS/1974%20-%20M463LA%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | +18 dB +/ -0.5 dB (bridging gain) (With fader in15 dB &quot;in-hand&quot; position. |
+| **Frequency response** | +/ -0.25 dB from 20 Hz kHz (Equalizer bypass position. |
+| **Noise** | dB below dBm nominal output level (20Hz kHz) |
+| **Harmonic distortion** | Less than 0.259 irom Hz kHz +28 dBm less Typically less than 057 across most bandwidth) |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Summing | 30 000 ohms balanced Direct: 600 ohms or less, balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing | Less than Direct: 30,000 ohms ohms |
+| **Output impedance** | Less than 100 ohms (at outputs 8-109A amplifiers only) 8-109F |
+| **Load impedance** | 500 ohms, balanced (at insertion point and DIRECT output) |
+| **Output level** | dBm nomina at insertion +8 dBm nominal DIRECT output _ +30 dBm maximum (at outputs 8-109F 8-109A amplifiers only). |
+| **Phasing** | Input and output terminals designated by numbers are phase |
+| **Power requirements** | volts dc, 100 mA nominal 300 MA maximum |
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | wide 14.5&quot; high 6.5&quot; deep (41 mm 360 mm 165 mm) |
+| **Weight** | 40 ozs (1150 gms) |
+
+## Circuit description
+
+From [1974 - M463LA - Submaster Module (2).pdf](MANUALS/1974%20-%20M463LA%20-%20Submaster%20Module%20(2).pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M46 3L i s a combinalion SUBMAST ER/ EOUALIZ ER module, designed 10
+
+~~~~~I c~:~~:~ Ac; ~~~xe~e f~::~ir:~ Ih~re~~~~sl:roc:::~~ne~e m~7~:~ s' g na l, equalize s il and routes it 10 tn e app r op r ia te points withIn the console system.
+
+Input and Summing Amplifier
+
+The signal orign ating from thee Xl erna l mixing network Is applied to thee d ge conne&lt;:tor PI, pins Ian d A and sub seq ue n l l y connects t o the summing current nodes oft h e 4_141 summing amplifier. to facili tale module te sling, a direct input isp r ovid e don P l, pins 17 and U.
+
+EO UALIZ ER Secli on
+
+The o u tpU I of Ih e 4_141 summing amplifier i s rou led to one oft h e normally closed contacts of I h e EOUALIZE R INSERTs witCh SWI3 to a i low bypassing o f I he equalizer. Additionally, Ihe 4-14i output i s fed to Zl, the first of four cascaded summing amplifiers Z I through
+
+ZI through Z4 serve as mixing and Iso la lion amplifiers. They are used 10 mix the primary input signal with a corrections ig na l derived from the outputs o f Ihe 4_ 126 filter networks, re su lling 1n raisin g or lowering the level o f selected portions of Ih e audios p e c tr u m. Addition ally, they t s eter e Ih e fllt er networks from each other and prev e nl interaction between Ihem, resulting inaccurate and repeat ~ able e q ull liz ing performance.
+
+The CUr /BOOST controls R21, R2 2 and R2 3 feed a n in-p has e o r o UIof~ph8 se proportionals i g n a l 10 the buffer amplifiers Z5, Z6 and Z8 r e s peclively. The level o f I h e signal fed 10 I he buffers is dependent on Ih e CUT/aOOST control selling....ith maximum level occurring ale i there n d of the polent iom et e r, 8 n d a null setting a t the poten tj o ~ meter mid ~ po sill on. Full clOCkwise o r full counterclockwise pot enti o meter selling swill result int h e maximum e qua lIza t ion 01 +15 dB and ~15 dB respectively.
+
+The outputs o f buffer amplifiers Z5, Z6 and Z8 e r-e routed to the
+
+1&lt;_ 126 printed circuit board which contains Ihre e b &quot;ndpa s s nues
+
+c orr esp o nd ing toe ach oft he th r-e e sections oft h e equalizer. Each
+
+band pass filter passes only a portion of the s ig &quot;a l delivered to i t from the buffer, with. the center frequency end b endw ldth determined by the F RE&quot;QUENCY, &quot; Q&quot; ·&quot; n d PEAK/SHEL~co&quot;,..o ls.
+
+The HIGH FREQUENCY equal l zelion Is cont in u ou sly adjustable from 1.5 to 25 kHz and is controlled b y Rl /R2. R21 determines the amount o f CUT or BOOST. A total r a&quot;ge from _15 to +15 dB Is provided. With SW11 depress e d Ihe unit will p..o duce a high frequency SHELVING ch a..a c teri stic. When SW11 is release d, both positive or &quot;egative PEAKING can b e obtained. The 0 cont..ol R3 is effect i v eon ly wllh SWll Int h e PEAKiNG mode and covers a O-f actor r a&quot;ge of 2 to 10.
+
+The MID FREQUENCY eq u a liz tltlon Is adjusted by R4/RS, covering a frequency range trom 0.4 to 6.4 kHz. CUT/ BOOST Is controlled by R22. R6 tld j u s ts the O-f tlc to... Positive or &quot; e gtl tive bell shaped PEAKING equal lza l lon 1s applicable Int hem id-fre quency range.
+
+The LOW FREOUENCY e q u tl liza t ion op e..ete s similarly tot he high frequency section. R7/R8 adjusts the frequency range from 25 to 400 Hz. CUT or BOOST are conlroll ed by R23, Q by R9 end SW12 determine s Ihe choice of either SHELVING or PEAKING che..tl c le r ls t k s.
+
+The threes i g n a l s w hkh le tl v e Ih e 4_126 filter are &quot;correcl lon signals &quot; either In-p h a se or 18 0 degrees out_of_ph tl Sew ith the eq u &quot;l l ze.. Inp ul &quot;I'd btlnd p e s slim il e d es del ermlned by thee qua l i ze r sec tl o &quot; tlnd cont..ol setting s. These &quot; correct ions i g n a ls &quot; are t he&quot; summed tog ether w llh Ih e primary (Inp ut) signal by me op e r tlt ion,,1 amp l lfie &quot;s 2 1, 22 end 24 Ih u S fo..mi ng Ih e e q u tl l i zed OUl put slgn &quot; l.
+
+This concept of adding eco....e c uce signal loge the.. with the Incoming s ig &quot;a l to form thee qua l i zeds i g na l Is d l..ec l l y responsible forth e low no l&quot; e and dl s lort ion capabilities oft his unit.
+
+The compound signal es generated along thee n l l r e p&quot;oce s sing ch el l' epp ears e t the ou lput of Z4. F..o m here it Is &quot;oul ed 10 one 01 the norm&quot;l ly open contacts oft h e EQUALIZER INSERTs witch SW13.
+
+ThuS, with SW13 depressed, thee qua l i zed slg n eli s fed tot h e OUlp ut
+
+tl mp l l f l e.. 8-109A. In e d d l t lon, as SWl) Is depressed, the LEO Indi
+
+cato r Is eCllvtlt ed.
+
+S_109A OUl p u l Amplifier and INSERT
+
+The S-109A amplifier ' -r a T&quot; e &quot; the s j g, ~ 10 _10 dBm nominally. The output i 5 active l y balanced and fed tot h e &quot; in &quot; e r t p o; nt&quot; a t pins 22 and Z o f module conn eclor Pl. This point;5 usually connected to a ~:~m::lt ~~d~a ~:~.O I Tns er t jacks, with the output side connected 10 the
+
+The output 01 I h e balanced fade r is return e d 10 the module via p,n&quot; 14 and R of Pl. The feed forth e PRE FADE REVERBERATION SENO (RS), the PRE FADE FOLDBACK (F a) and the P REF ADE PUBliC ADDRESS (PA) channels;5 brought out a t PI, pins 20 and X and original e&quot; normally from the input side 01 the fade r.
+
+An e x t erna l st ere input ' &quot; provided at connector P2, pins 8 and J. The slates ign al is;nj e&lt;:ted i n place oft here g u l a r signal when relay KI is activated. Tr1 m pOi R 142 serves to calibrate the slate level.
+
+8 _ l09F Boo &quot; l er Amp l; fie r
+
+This amplifier operates with again of J J dB. I t recover &quot; the 15dB &quot;in han d&quot; loss incur red by the fade rand provides add i lion alga into produce a nominal level of +8 dBm al II&quot; ou tpul.
+
+A DIRECT outp UI from the 8_l09 F e mp li fie r; &quot; provided 0'1 1 connector P2, pins 12 end N. Aside from other u&quot; es within a given console system, the DIRECT output feeds the submas ter VU meter and serves a s the l a k eo ff point for monitoring.
+
+Me Sl er Outputs and PAN Control
+
+Two left end twO right outp u lS lire e lso fed b y the 8 l 09 F output
+
+s' g nal. They are routed vie PANs witCh SW14 and PAN control R24 10 R27, followed by lou r MASTER ASSIGNMENT SWITCHES SW22 to SW2S. The
+
+Auxiliary Outputs
+
+In addition, a SOLO output i~ available via SWl 6, to allow ~e lec llve monitoring o f the particular sub master channel. Other feeds originating from the 8-10 9F amplifier ares u p plied to the POSTFADE RS, F B, and P A channels.
+
+PRE /POST Selector Switches and Level Controls
+
+P RE/PO ST ~el ec l lon of I heRS, Faa n d PAc h ann el sis fad lit ated by ~ w l lches SW18, SWI9, SW20 and SW4 respectively I each switch i s followed b y its associated level c onlro l. The outputs of the level controls are fed [0 the summing outputs via ind i v i dual assignment swi lc hes. Following the assign men t switches, theSe outputs are fed tot heir a p prop r ia te mixing buses via summing r e ~ l s tors.
+
+A ux i liar y Control FunCllon s
+
+DC c o nlrol c onlacts are provided on tn e SOLO and PA assignments witches top ermil external muting and s e le c l l v e control functions a s maybe require d.
+
+Power Supply Oeco u p ling
+
+An ecnve power supply d ecoupllng net....or k: ~onsiSl l ng of 0 1 through 06 provides a high degree of 1sol a tion between the M46 3L and the +/ _ 25 1,1 0 11 supply rails. The trans lsl o r S 05 and 0 6 ser-ve a s Ih e current monitors and will 11ml t the cur rent flow ing t h rough the pass trans i s tors 0 3 and 04 i n Ihe even l that excessive po....e r ~ upp ly demands should arise a s are sult of compo n e nt failure.
+
+FREQUENCY RESPONSE CHARACTERISTICS
+
+**M.63LA SUBMASTER MODULE EOUALIZ ER**
+
+l=± I&quot;,
+
+**I III II**
+
+lOW FREQUENCY section I, I Mode: SHELVING.
+
+CUT/B OOST: tIS se.
+
+FREQUENCY: 25 1 400Hz.
+
+**III... &quot;&quot;- II**
+
+lOll FREQUENCY section
+
+Mode: PEAKING.
+
+CUT/B OOST: tI S dB.
+
+FREQUENCY: 2S I 400 Hz.
+
+Q: 2.
+
+**FRECUENCY RESPONSE CHARACTERISTICS**
+
+MID FREQUENCY sect fon CUT/ BOOST: ±IS dB.
+
+FREQUENCY: 0.4 &amp; 6.4 kHz.
+
+Q: 2.
+
+MID FREQUENCY section BOOST: +3 t o +15 d B. I n 3 dB steps. Q: 2.
+
+FREQUENCY: 1 kHz.
+
+CUT: -61-15 dB. 0: 10. -
+
+FREQUENCY: 2 kHz. -1II2'lIH'
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
