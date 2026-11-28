@@ -1,5 +1,5 @@
 # 1982 - M463LA - P001 - Title Page.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1982 (found in this file: "DECEMBER 1982")

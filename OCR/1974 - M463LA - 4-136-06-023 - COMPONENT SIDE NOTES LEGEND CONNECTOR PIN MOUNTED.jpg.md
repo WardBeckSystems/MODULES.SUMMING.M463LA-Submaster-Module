@@ -1,5 +1,5 @@
 # 1974 - M463LA - 4-136-06-023 - COMPONENT SIDE NOTES LEGEND CONNECTOR PIN MOUNTED.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

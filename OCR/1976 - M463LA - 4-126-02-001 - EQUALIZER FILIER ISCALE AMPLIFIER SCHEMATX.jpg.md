@@ -1,5 +1,5 @@
 # 1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1976 (found in this file: "DATE Oct 76")

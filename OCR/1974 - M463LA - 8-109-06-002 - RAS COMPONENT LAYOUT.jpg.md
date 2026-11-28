@@ -1,5 +1,5 @@
 # 1974 - M463LA - 8-109-06-002 - RAS COMPONENT LAYOUT.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

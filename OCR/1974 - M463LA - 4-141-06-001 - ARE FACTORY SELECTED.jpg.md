@@ -1,5 +1,5 @@
 # 1974 - M463LA - 4-141-06-001 - ARE FACTORY SELECTED.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

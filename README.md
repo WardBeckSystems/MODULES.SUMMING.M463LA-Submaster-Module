@@ -1,6 +1,6 @@
 # M463LA Submaster Module · Summing
 
-Ward-Beck Systems M463LA, 1974|7. Wiki page: [M463LA on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M463LA.html)
+Ward-Beck Systems M463LA, 1974|7. Wiki page: [M463LA on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463LA-Submaster-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

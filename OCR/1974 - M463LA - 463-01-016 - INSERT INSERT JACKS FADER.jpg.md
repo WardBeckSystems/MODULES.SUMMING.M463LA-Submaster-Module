@@ -1,5 +1,5 @@
 # 1974 - M463LA - 463-01-016 - INSERT INSERT JACKS FADER.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1974 - M463LA - 4-126-06-001 - ISSMOD ICKD USED.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

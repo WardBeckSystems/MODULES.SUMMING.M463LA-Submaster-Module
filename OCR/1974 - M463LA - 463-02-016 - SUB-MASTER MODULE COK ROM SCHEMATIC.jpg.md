@@ -1,5 +1,5 @@
 # 1974 - M463LA - 463-02-016 - SUB-MASTER MODULE COK ROM SCHEMATIC.jpg
-Wiki page: [M463LA](../../../../PAGES/M463LA.md)
+Wiki page: [M463LA](../)
 
 
 - **Year:** 1974 (module estimate (labelled))
