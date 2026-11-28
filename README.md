@@ -178,6 +178,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZmhEQUNERkl2MGs/view?resourcekey=0-58LeZLoxbrmsRegCry8-9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZmhEQUNERkl2MGs&resourcekey=0-58LeZLoxbrmsRegCry8-9Q" width="240" alt="1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE.jpg"></a><br><sub>1974|7 · 463-04-030 - ENG MEW SUBMASTER MODULE · <a href="MECHANICAL/1974%20-%20M463LA%20-%20463-04-030%20-%20ENG%20MEW%20SUBMASTER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M463LA.stl`](MECHANICAL/M463LA.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463LA)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: wide 14.5" high 6.5" deep (41 mm 360 mm 165 mm))
+- **From the drawing:** 27 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M463LA - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M463LA.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
