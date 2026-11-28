@@ -4,13 +4,12 @@ Ward-Beck Systems M463LA, 1974|7. Wiki page: [M463LA on WBSps.ca](https://wardbe
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 89 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 463 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 19 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 88 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 462 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 18 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 72 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -209,8 +208,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNUVBUWV4Z1pSS0k/view?resourcekey=0-83w1LIwAoA9qqNsvr_L4Ew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNUVBUWV4Z1pSS0k&resourcekey=0-83w1LIwAoA9qqNsvr_L4Ew" width="240" alt="1974 - M463LA - 4-136-06-023 - COMPONENT SIDE NOTES LEGEND CONNECTOR PIN MOUNTED.jpg"></a><br><sub>1974|7 · 4-136-06-023 - COMPONENT SIDE NOTES LEGEND CONNECTOR PIN MOUNTED · <a href="PINOUTS/1974%20-%20M463LA%20-%204-136-06-023%20-%20COMPONENT%20SIDE%20NOTES%20LEGEND%20CONNECTOR%20PIN%20MOUNTED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M463LA - RTO-144 Connections.pdf`
-
 ## RTO-144 pinout
 
 12 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
@@ -260,8 +257,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVlhjeDFDYnViUEE/view?resourcekey=0-PDOxTUGRQG9kNJOEk6eR3w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVlhjeDFDYnViUEE&resourcekey=0-PDOxTUGRQG9kNJOEk6eR3w" width="240" alt="1983 - M463LA - P033 - 4-141.jpg"></a><br><sub>1983|16 · P033 - 4-141</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTXZDZHVrQ0xjUk0/view?resourcekey=0-rC25pHe1mye2W7GncvXVfQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTXZDZHVrQ0xjUk0&resourcekey=0-rC25pHe1mye2W7GncvXVfQ" width="240" alt="1983 - M463LA - P037 - 4-126.jpg"></a><br><sub>1983|16 · P037 - 4-126</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M463LA - P002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -284,7 +279,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1974 - M463LA - Submaster Module p65.kicad_sch](KICAD/1974%20-%20M463LA%20-%20Submaster%20Module%20p65.kicad_sch)
 - [1976 - M463LA - 4-126-02-001 - EQUALIZER FILIER ISCALE AMPLIFIER SCHEMATX.kicad_sch](KICAD/1976%20-%20M463LA%20-%204-126-02-001%20-%20EQUALIZER%20FILIER%20ISCALE%20AMPLIFIER%20SCHEMATX.kicad_sch)
 - [M463LA.kicad_sym](KICAD/M463LA.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
